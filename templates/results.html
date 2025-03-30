@@ -1,0 +1,56 @@
+<!-- templates/results.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Judgment Rendered</title>
+    <style>
+        body {
+            background-color: #333333;
+            color: #ffffff;
+            font-family: 'Times New Roman', serif;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .result-item {
+            border-bottom: 1px solid #444444;
+            padding: 1rem 0;
+        }
+        .correct {
+            color: #88ff88;
+        }
+        .incorrect {
+            color: #ff8888;
+        }
+        .quote {
+            font-style: italic;
+            color: #888888;
+            margin-top: 0.5rem;
+        }
+        .principle {
+            color: #aaaaaa;
+            font-weight: bold;
+        }
+        h2 {
+            color: #666666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Final Judgment</h1>
+    <h2>Total XP Earned: {{ score }}</h2>
+    
+    {% for result in results %}
+    <div class="result-item">
+        <h3>Question {{ loop.index }}:</h3>
+        <p>{{ result['question'] }}</p>
+        <p class="{% if result.your_answer == result.correct %}correct{% else %}incorrect{% endif %}">
+            Your answer: {{ result.your_answer }} 
+            (Correct: {{ result.correct }})
+        </p>
+        <p class="principle">Principle: {{ result.principle }}</p>
+        <p class="quote">"{{ result.quote }}"</p>
+    </div>
+    {% endfor %}
+</body>
+</html>

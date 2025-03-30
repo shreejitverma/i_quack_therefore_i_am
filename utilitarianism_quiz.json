@@ -1,0 +1,654 @@
+{
+  "quiz": [
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead",
+        "C) Defer to commander"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "D) Surrender instead"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "D) Cut neither and raise taxes",
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "B) Deception if it minimizes suffering",
+        "A) Truth at all costs"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering",
+        "A) Truth at all costs"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "A) Truth at all costs"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The worth of a state in the long run is the worth of the individuals composing it.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "A) Truth at all costs"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "A) Truth at all costs"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "C) Defer to commander",
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead",
+        "A) Truth at all costs"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly",
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people",
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The worth of a state in the long run is the worth of the individuals composing it.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "C) Defer to commander",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The worth of a state in the long run is the worth of the individuals composing it.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "B) Deception if it minimizes suffering",
+        "A) Truth at all costs"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote",
+        "A) Cut randomly",
+        "B) Prioritize what helps the most people"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote",
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly",
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead",
+        "A) Truth at all costs",
+        "C) Defer to commander"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "C) Ask citizens to vote",
+        "D) Cut neither and raise taxes",
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "C) Ask citizens to vote",
+        "B) Prioritize what helps the most people",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "A) Cut randomly",
+        "C) Ask citizens to vote",
+        "D) Cut neither and raise taxes"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly",
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The worth of a state in the long run is the worth of the individuals composing it.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "C) Defer to commander",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "C) Ask citizens to vote",
+        "A) Cut randomly",
+        "D) Cut neither and raise taxes",
+        "B) Prioritize what helps the most people"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "C) Ask citizens to vote",
+        "D) Cut neither and raise taxes",
+        "A) Cut randomly"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "A) Cut randomly",
+        "C) Ask citizens to vote",
+        "D) Cut neither and raise taxes",
+        "B) Prioritize what helps the most people"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "B) Deception if it minimizes suffering",
+        "A) Truth at all costs",
+        "C) Defer to commander",
+        "D) Surrender instead"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The only freedom which deserves the name is that of pursuing our own good in our own way.\""
+    },
+    {
+      "question": "A mayor must cut funds from education or healthcare. Utilitarian approach?",
+      "options": [
+        "B) Prioritize what helps the most people",
+        "D) Cut neither and raise taxes",
+        "C) Ask citizens to vote",
+        "A) Cut randomly"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Greatest good for greatest number",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "D) Surrender instead"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "B) Deception if it minimizes suffering",
+        "C) Defer to commander",
+        "A) Truth at all costs",
+        "D) Surrender instead"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "B) Deception if it minimizes suffering",
+        "D) Surrender instead",
+        "C) Defer to commander",
+        "A) Truth at all costs"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"A person may cause evil to others not only by his actions but by his inaction.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "A) Truth at all costs",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"The liberty of the individual must be thus far limited; he must not make himself a nuisance to others.\""
+    },
+    {
+      "question": "A soldier can save his comrades by deceiving the enemy. Utilitarian logic?",
+      "options": [
+        "A) Truth at all costs",
+        "C) Defer to commander",
+        "D) Surrender instead",
+        "B) Deception if it minimizes suffering"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Utility > moral absolutism",
+      "platoQuote": "\"Originality is the one thing which unoriginal minds cannot feel the use of.\""
+    }
+  ]
+}

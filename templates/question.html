@@ -1,0 +1,53 @@
+<!-- templates/question.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Question {{ question_number }}</title>
+    <style>
+        body {
+            background-color: #333333;
+            color: #ffffff;
+            font-family: 'Times New Roman', serif;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .question-box {
+            border: 1px solid #666666;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        button {
+            background-color: #444444;
+            color: white;
+            padding: 0.8rem;
+            margin: 0.5rem;
+            border: 1px solid #666666;
+            cursor: pointer;
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+        button:hover {
+            background-color: #555555;
+        }
+        .progress {
+            color: #888888;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress">Question {{ question_number }} of {{ total }}</div>
+    <div class="question-box">
+        <h3>{{ question['question'] }}</h3>
+        <form method="POST" action="/answer">
+            {% for option in question['options'] %}
+            <button type="submit" name="answer" value="{{ option[0] }}">
+                {{ option }}
+            </button>
+            {% endfor %}
+        </form>
+    </div>
+</body>
+</html>

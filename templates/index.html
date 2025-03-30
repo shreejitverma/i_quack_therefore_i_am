@@ -1,0 +1,41 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stoic Wisdom Trial</title>
+    <style>
+        body {
+            background-color: #333333;
+            color: #ffffff;
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .start-btn {
+            background-color: #555555;
+            color: white;
+            padding: 1rem 2rem;
+            border: 2px solid #777777;
+            cursor: pointer;
+            font-size: 1.2rem;
+            margin-top: 2rem;
+        }
+        .start-btn:hover {
+            background-color: #666666;
+        }
+        h1 {
+            border-bottom: 1px solid #666666;
+            padding-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stoic Wisdom Trial</h1>
+    <p>Face 25 ethical dilemmas. Your virtue will be tested.</p>
+    <form action="/start">
+        <button type="submit" class="start-btn">Begin Examination</button>
+    </form>
+</body>
+</html>

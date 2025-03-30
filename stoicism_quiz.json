@@ -1,0 +1,654 @@
+{
+  "quiz": [
+    {
+      "question": "A general must choose between rescuing hostages or preventing a siege. Both actions risk his soldiers. Stoic calculus?",
+      "options": [
+        "A) Prioritize military advantage",
+        "B) Follow protocol regardless of loss",
+        "C) Let soldiers vote democratically",
+        "D) Choose the most virtuous action, accepting losses"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Virtue as non-negotiable compass",
+      "marcusQuote": "\"The impediment to action advances action. What stands in the way becomes the way.\""
+    },
+    {
+      "question": "A senator's truthful speech will spark riots. To speak or stay silent?",
+      "options": [
+        "A) Speak but prepare suppression forces",
+        "B) Modify truth to pacify crowds",
+        "C) Resign and leak anonymously",
+        "D) Speak plainly and accept chaos"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Truth as absolute duty",
+      "marcusQuote": "\"If it's not right, don't do it. If it's not true, don't say it.\""
+    },
+    {
+      "question": "A doctor must test a vaccine on orphans. Alternative human trials are impossible. Choice?",
+      "options": [
+        "A) Proceed for greater good",
+        "B) Test on self illegally",
+        "C) Abandon research",
+        "D) Petition for prisoner trials"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Courageous self-sacrifice over utility",
+      "marcusQuote": "\"The good man subjects himself to fate.\""
+    },
+    {
+      "question": "A Stoic teacher's student commits suicide citing their lessons. Posthumous response?",
+      "options": [
+        "A) Deny philosophical responsibility",
+        "B) Teach harder truths as antidote",
+        "C) Analyze personal pedagogical failures",
+        "D) Establish suicide prevention funds"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Relentless self-examination",
+      "marcusQuote": "\"You're better off not giving the spirit of vengeance houseroom.\""
+    },
+    {
+      "question": "A judge's ruling will free a guilty man but expose systemic corruption. Legal obligation vs. justice?",
+      "options": [
+        "A) Rule strictly by law",
+        "B) Fabricate evidence subtly",
+        "C) Resign to enable retrial",
+        "D) Rule justly and expose flaws publicly"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Process integrity over outcomes",
+      "marcusQuote": "\"Justice is the source of all other virtues.\""
+    },
+    {
+      "question": "A philosopher discovers their life's work relies on falsified data. Legacy management?",
+      "options": [
+        "A) Quietly correct future editions",
+        "B) Burn all existing copies",
+        "C) Publicly dismantle theories",
+        "D) Blame research assistants"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Intellectual annihilation as rebirth",
+      "marcusQuote": "\"To live is to amend.\""
+    },
+    {
+      "question": "A soldier can assassinate a tyrant but doom hostages. Stoic weapon?",
+      "options": [
+        "A) Kill tyrant, accept hostages' fate",
+        "B) Negotiate with terrorists",
+        "C) Surrender to share hostages' fate",
+        "D) Stage coup to swap targets"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Virtuous action \u2260 control of results",
+      "marcusQuote": "\"The mind adapts the obstacle to its purpose.\""
+    },
+    {
+      "question": "A governor must let plague spread or burn a sacred forest for quarantine. Cultural vs. biological survival?",
+      "options": [
+        "A) Preserve forest, accept deaths",
+        "B) Burn forest but plant new saplings",
+        "C) Let tribes decide their fate",
+        "D) Burn forest without apology"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Nature's rationality > tradition",
+      "marcusQuote": "\"All things are born of change.\""
+    },
+    {
+      "question": "A spy discovers their country causes the war they're fighting. Loyalty crisis?",
+      "options": [
+        "A) Continue serving for stability",
+        "B) Defect with intelligence",
+        "C) Fake own death",
+        "D) Leak truth anonymously"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Truth as highest patriotism",
+      "marcusQuote": "\"The universe is transformation; life is opinion.\""
+    },
+    {
+      "question": "A philosopher's family starves unless they compromise teachings. Ethical nutrition?",
+      "options": [
+        "A) Temporarily teach lies",
+        "B) Beg selectively from enemies",
+        "C) Let family starve stoically",
+        "D) Work menial jobs secretly"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Humility in provision",
+      "marcusQuote": "\"No role is beneath us if it serves virtue.\""
+    },
+    {
+      "question": "A general's victory requires betraying allies. Path to peace?",
+      "options": [
+        "A) Win then compensate allies",
+        "B) Lose honorably",
+        "C) Negotiate shared defeat",
+        "D) Betray but memorialize allies"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Honor > victory",
+      "marcusQuote": "\"It's not dying that alarms me, but dying without dignity.\""
+    },
+    {
+      "question": "A scientist's climate solution requires mass displacement. Ecological triage?",
+      "options": [
+        "A) Implement forcibly",
+        "B) Seek incremental alternatives",
+        "C) Abandon solution",
+        "D) Propose but refuse to execute"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Wisdom without force",
+      "marcusQuote": "\"The best way to avenge yourself is not to become like the wrongdoer.\""
+    },
+    {
+      "question": "A judge must punish a hero who broke laws to save lives. Legal vs. moral duty?",
+      "options": [
+        "A) Full sentence as deterrent",
+        "B) Symbolic punishment",
+        "C) Resign to avoid ruling",
+        "D) Acquit and expose flawed laws"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Law as living reason, not emotion",
+      "marcusQuote": "\"Justice is the contract of expediency.\""
+    },
+    {
+      "question": "A doctor's faith forbids proven treatment. Patient autonomy vs. oaths?",
+      "options": [
+        "A) Impose treatment secretly",
+        "B) Refer against patient's will",
+        "C) Honor patient's choice fatally",
+        "D) Convert patient through debate"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Autonomy as natural right",
+      "marcusQuote": "\"Accept the things to which fate binds you.\""
+    },
+    {
+      "question": "A captain's sinking ship holds refugees and criminals. Lifeboat priority?",
+      "options": [
+        "A) Save refugees first",
+        "B) Draw lots universally",
+        "C) Prioritize crew",
+        "D) Go down with the ship"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Cosmic equality in mortality",
+      "marcusQuote": "\"All men are made one for another.\""
+    },
+    {
+      "question": "A spy's child is brainwashed by enemies. Rescue vs. assassination?",
+      "options": [
+        "A) Kill child to prevent leaks",
+        "B) Rescue through negotiation",
+        "C) Convert child through torture",
+        "D) Disown to maintain cover"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Parental duty as natural law",
+      "marcusQuote": "\"A man should be upright, not kept upright.\""
+    },
+    {
+      "question": "A philosopher's deathbed disciple demands secret knowledge. Final teaching?",
+      "options": [
+        "A) Reveal cryptic half-truths",
+        "B) Deny existence of secrets",
+        "C) Entrust to written legacy",
+        "D) Take secrets to the grave"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Wisdom dies with the wise",
+      "marcusQuote": "\"The soul becomes dyed with the color of its thoughts.\""
+    },
+    {
+      "question": "A reformer's success requires destroying a beneficial tradition. Progress paradox?",
+      "options": [
+        "A) Eradicate tradition ruthlessly",
+        "B) Preserve tradition despite flaws",
+        "C) Hybridize old and new",
+        "D) Let people choose individually"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Change as nature's constant",
+      "marcusQuote": "\"The universe is change; life is opinion.\""
+    },
+    {
+      "question": "A translator must censor ancient texts to protect modern sensibilities. Scholarship vs. preservation?",
+      "options": [
+        "A) Translate rawly with disclaimers",
+        "B) Create palatable versions",
+        "C) Bury controversial texts",
+        "D) Publish only to academics"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Truth without apology",
+      "marcusQuote": "\"Everything we hear is an opinion, not a fact.\""
+    },
+    {
+      "question": "A soldier's orders require killing surrendering youths. Discipline vs. conscience?",
+      "options": [
+        "A) Obey and rationalize as duty",
+        "B) Fake executions secretly",
+        "C) Desert with prisoners",
+        "D) Challenge commander publicly"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Courageous deception",
+      "marcusQuote": "\"The art of living is more like wrestling than dancing.\""
+    },
+    {
+      "question": "A scientist discovers immortality but only for the wealthy. Publication decision?",
+      "options": [
+        "A) Patent for equitable distribution",
+        "B) Destroy research entirely",
+        "C) Publish openly",
+        "D) Sell to highest bidders"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Knowledge as common property",
+      "marcusQuote": "\"What's bad for the hive is bad for the bee.\""
+    },
+    {
+      "question": "A judge's verdict will normalize either corruption or tyranny. Legal triage?",
+      "options": [
+        "A) Rule for lesser evil",
+        "B) Resign to avoid choice",
+        "C) Rule strictly by law",
+        "D) Stage judicial suicide"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Law as firebreak against chaos",
+      "marcusQuote": "\"The nearer a man comes to a calm mind, the closer he is to strength.\""
+    },
+    {
+      "question": "A nurse must prioritize a repentant murderer or innocent drunkard. Triage ethics?",
+      "options": [
+        "A) Prioritize medical urgency",
+        "B) Save the innocent first",
+        "C) Reward repentance",
+        "D) Flip coin impartially"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Present need > past merit",
+      "marcusQuote": "\"Confine yourself to the present.\""
+    },
+    {
+      "question": "A general can win via betrayal or lose with honor. Choice?",
+      "options": [
+        "A) Betray then repent",
+        "B) Lose but inspire allies",
+        "C) Negotiate dishonorable peace",
+        "D) Let soldiers decide"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Defeat with integrity > tainted victory",
+      "marcusQuote": "\"It's not dying that alarms me, but dying without dignity.\""
+    },
+    {
+      "question": "A philosopher must choose between saving burning Stoic texts or a child. Final test?",
+      "options": [
+        "A) Save texts for posterity",
+        "B) Save child and rewrite wisdom",
+        "C) Die trying to save both",
+        "D) Let fate decide via inaction"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Virtue embodied > preserved",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "A city's water supply is poisoned. Telling the public sparks panic, staying silent costs lives. Stoic action?",
+      "options": [
+        "A) Leak it anonymously",
+        "B) Tell the truth publicly",
+        "C) Quietly fix it first",
+        "D) Inform only officials"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Radical honesty in crisis",
+      "marcusQuote": "\"If it's endurable, then endure it. Stop complaining.\""
+    },
+    {
+      "question": "An emperor offers wealth in exchange for compromising values. Stoic path?",
+      "options": [
+        "A) Accept then donate all wealth",
+        "B) Refuse regardless of cost",
+        "C) Take it for family",
+        "D) Debate emperor openly"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Integrity over gain",
+      "marcusQuote": "\"Wealth consists not in having great possessions, but in having few wants.\""
+    },
+    {
+      "question": "You\u2019re publicly insulted by a student. Retaliate or remain silent?",
+      "options": [
+        "A) Retaliate to set example",
+        "B) Ignore and reflect inwardly",
+        "C) Mock them wisely",
+        "D) Lecture on respect"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Ego transcendence",
+      "marcusQuote": "\"How much more harmful are the consequences of anger than the causes of it.\""
+    },
+    {
+      "question": "A close friend joins a corrupt regime. Friendship vs. virtue?",
+      "options": [
+        "A) Cut ties immediately",
+        "B) Stay close to guide him",
+        "C) Pretend neutrality",
+        "D) Expose him anonymously"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Virtue over attachment",
+      "marcusQuote": "\"Associate with people who are likely to improve you.\""
+    },
+    {
+      "question": "A Stoic is imprisoned unjustly. What to focus on?",
+      "options": [
+        "A) Plead innocence daily",
+        "B) Escape if possible",
+        "C) Master self and thoughts",
+        "D) Convert others to Stoicism"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Freedom within the mind",
+      "marcusQuote": "\"No man is free, who is not master of himself.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "A) Publicly defend him",
+        "B) Stay silent to avoid drama",
+        "C) Reevaluate teachings",
+        "D) Visit him quietly"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "You're offered fame for diluting your philosophy. Response?",
+      "options": [
+        "A) Decline and stay obscure",
+        "B) Compromise slightly",
+        "C) Accept then fix it",
+        "D) Publish anonymously"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Fame as temptation",
+      "marcusQuote": "\"Ambition means tying your well-being to what other people say or do.\""
+    },
+    {
+      "question": "A plague hits and people panic. Stoic role?",
+      "options": [
+        "A) Enforce rules strictly",
+        "B) Offer calm guidance",
+        "C) Withdraw from society",
+        "D) Preach fate openly"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Calm in chaos",
+      "marcusQuote": "\"You have power over your mind \u2013 not outside events. Realize this, and you will find strength.\""
+    },
+    {
+      "question": "A tyrant asks for your counsel. Speak truth or flatter?",
+      "options": [
+        "A) Speak wisely but vaguely",
+        "B) Tell the truth directly",
+        "C) Refuse to speak",
+        "D) Use metaphors to teach"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Truth over self-preservation",
+      "marcusQuote": "\"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.\""
+    },
+    {
+      "question": "A Stoic artist must portray suffering truthfully. Ethical representation?",
+      "options": [
+        "A) Exaggerate for emotion",
+        "B) Show only beauty",
+        "C) Depict reality as it is",
+        "D) Focus on healing themes"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Art as truth expression",
+      "marcusQuote": "\"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "B) Stay silent to avoid drama",
+        "C) Reevaluate teachings",
+        "D) Visit him quietly",
+        "A) Publicly defend him"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "You're offered fame for diluting your philosophy. Response?",
+      "options": [
+        "B) Compromise slightly",
+        "C) Accept then fix it",
+        "D) Publish anonymously",
+        "A) Decline and stay obscure"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Fame as temptation",
+      "marcusQuote": "\"Ambition means tying your well-being to what other people say or do.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "A) Publicly defend him",
+        "D) Visit him quietly",
+        "C) Reevaluate teachings",
+        "B) Stay silent to avoid drama"
+      ],
+      "correct": "A",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "A plague hits and people panic. Stoic role?",
+      "options": [
+        "D) Preach fate openly",
+        "C) Withdraw from society",
+        "A) Enforce rules strictly",
+        "B) Offer calm guidance"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Calm in chaos",
+      "marcusQuote": "\"You have power over your mind \u2013 not outside events. Realize this, and you will find strength.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "B) Stay silent to avoid drama",
+        "A) Publicly defend him",
+        "C) Reevaluate teachings",
+        "D) Visit him quietly"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "A plague hits and people panic. Stoic role?",
+      "options": [
+        "C) Withdraw from society",
+        "A) Enforce rules strictly",
+        "D) Preach fate openly",
+        "B) Offer calm guidance"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Calm in chaos",
+      "marcusQuote": "\"You have power over your mind \u2013 not outside events. Realize this, and you will find strength.\""
+    },
+    {
+      "question": "A Stoic artist must portray suffering truthfully. Ethical representation?",
+      "options": [
+        "B) Show only beauty",
+        "D) Focus on healing themes",
+        "C) Depict reality as it is",
+        "A) Exaggerate for emotion"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Art as truth expression",
+      "marcusQuote": "\"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.\""
+    },
+    {
+      "question": "An emperor offers wealth in exchange for compromising values. Stoic path?",
+      "options": [
+        "A) Accept then donate all wealth",
+        "D) Debate emperor openly",
+        "B) Refuse regardless of cost",
+        "C) Take it for family"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Integrity over gain",
+      "marcusQuote": "\"Wealth consists not in having great possessions, but in having few wants.\""
+    },
+    {
+      "question": "A tyrant asks for your counsel. Speak truth or flatter?",
+      "options": [
+        "C) Refuse to speak",
+        "A) Speak wisely but vaguely",
+        "B) Tell the truth directly",
+        "D) Use metaphors to teach"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Truth over self-preservation",
+      "marcusQuote": "\"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.\""
+    },
+    {
+      "question": "You\u2019re publicly insulted by a student. Retaliate or remain silent?",
+      "options": [
+        "A) Retaliate to set example",
+        "D) Lecture on respect",
+        "C) Mock them wisely",
+        "B) Ignore and reflect inwardly"
+      ],
+      "correct": "D",
+      "xp": 30,
+      "principle": "Ego transcendence",
+      "marcusQuote": "\"How much more harmful are the consequences of anger than the causes of it.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "C) Reevaluate teachings",
+        "A) Publicly defend him",
+        "D) Visit him quietly",
+        "B) Stay silent to avoid drama"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    },
+    {
+      "question": "A tyrant asks for your counsel. Speak truth or flatter?",
+      "options": [
+        "D) Use metaphors to teach",
+        "C) Refuse to speak",
+        "B) Tell the truth directly",
+        "A) Speak wisely but vaguely"
+      ],
+      "correct": "C",
+      "xp": 30,
+      "principle": "Truth over self-preservation",
+      "marcusQuote": "\"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.\""
+    },
+    {
+      "question": "A tyrant asks for your counsel. Speak truth or flatter?",
+      "options": [
+        "A) Speak wisely but vaguely",
+        "B) Tell the truth directly",
+        "C) Refuse to speak",
+        "D) Use metaphors to teach"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Truth over self-preservation",
+      "marcusQuote": "\"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.\""
+    },
+    {
+      "question": "A tyrant asks for your counsel. Speak truth or flatter?",
+      "options": [
+        "D) Use metaphors to teach",
+        "B) Tell the truth directly",
+        "C) Refuse to speak",
+        "A) Speak wisely but vaguely"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Truth over self-preservation",
+      "marcusQuote": "\"Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.\""
+    },
+    {
+      "question": "Your mentor is disgraced by false rumors. Stoic loyalty?",
+      "options": [
+        "D) Visit him quietly",
+        "A) Publicly defend him",
+        "B) Stay silent to avoid drama",
+        "C) Reevaluate teachings"
+      ],
+      "correct": "B",
+      "xp": 30,
+      "principle": "Courageous defense of the virtuous",
+      "marcusQuote": "\"Waste no more time arguing what a good man should be. Be one.\""
+    }
+  ]
+}
